@@ -10,7 +10,9 @@
   "author": "Elena Pikhtovnikova",
   "license": "ISC",
   "dependencies": {
-    "parcel": "^2.0.0-rc.0"
+    "core-js": "^3.18.3",
+    "parcel": "^2.0.0-rc.0",
+    "regenerator-runtime": "^0.13.9"
   },
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-rc.0",
