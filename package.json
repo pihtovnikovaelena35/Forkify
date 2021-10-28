@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "core-js": "^3.18.3",
+    "fractional": "^1.0.0",
     "parcel": "^2.0.0-rc.0",
     "regenerator-runtime": "^0.13.9"
   },
