@@ -1,6 +1,5 @@
 import icons from 'url:../../img/icons.svg';
-import {Fraction}  from 'fractional';
-console.log(Fraction);
+import { Fraction } from 'fractional';
 
 class RecipeView {
   #parentElement = document.querySelector('.recipe');
@@ -108,7 +107,7 @@ class RecipeView {
     `;
   }
 
-  #generateMarkupIngredient(ing){
+  #generateMarkupIngredient(ing) {
     return `
     <li class="recipe__ingredient">
       <svg class="recipe__icon">
